@@ -1,0 +1,26 @@
+# Flutter generated
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+windows/flutter/ephemeral/
+.idea/
+
+# AI Models
+*.tflite
+*.h5
+*.pkl
+*.bin
+*.pt
+*.pb
+*.onnx
+*.keras
+
+# Datasets and reports
+datasets/
+reports/
+
+# OS
+.DS_Store
+Thumbs.db

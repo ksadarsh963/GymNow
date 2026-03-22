@@ -1,0 +1,5 @@
+model/
+datasets/
+reports/
+*.h5
+*.pkl

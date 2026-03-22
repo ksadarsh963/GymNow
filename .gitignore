@@ -1,0 +1,29 @@
+# AI Models - Backend
+*.h5
+*.pkl
+*.tflite
+*.bin
+*.pt
+*.pb
+*.onnx
+*.keras
+
+# Backend generated
+ai/datasets/
+ai/reports/
+ai/model/
+__pycache__/
+*.pyc
+
+# Flutter generated - Frontend
+gymnow_v2/build/
+gymnow_v2/.dart_tool/
+gymnow_v2/.flutter-plugins
+gymnow_v2/.flutter-plugins-dependencies
+gymnow_v2/.packages
+gymnow_v2/windows/flutter/ephemeral/
+gymnow_v2/.idea/
+
+# OS
+.DS_Store
+Thumbs.db
